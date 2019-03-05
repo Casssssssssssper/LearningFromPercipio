@@ -1,0 +1,2 @@
+C:\Users\Casper\Documents\Github\LearningFromPercipio\SwitchStatements\obj\Debug\SwitchStatements.csprojAssemblyReference.cache
+C:\Users\Casper\Documents\Github\LearningFromPercipio\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache

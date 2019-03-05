@@ -1,0 +1,2 @@
+C:\Users\Casper\Documents\Github\LearningFromPercipio\LearningFromPercipio\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Casper\Documents\Github\LearningFromPercipio\LearningFromPercipio\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
